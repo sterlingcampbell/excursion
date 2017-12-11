@@ -1,7 +1,36 @@
-h1 {
+h1, h2 {
+    color: white;
+}
+
+body {
   font-family: Verdana;
+}
+
+h1 {
   font-weight: normal;
   font-size: 50px;
-  color: white;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+.download-link {
+  color: Aquamarine;
+  font-size: 16px;
   text-align: center;
+}
+
+.descriptor, footer {
+  color: gray;
+  font-size: 21px;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
+
+footer {
+  text-align: right;
 }
